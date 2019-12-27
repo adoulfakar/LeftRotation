@@ -6,4 +6,4 @@ WORKDIR /
 RUN chmod 444 main.py
 
 ENTRYPOINT ["python", "main.py"]
-CMD ["abcde", "3"]
+CMD ["abcde", "0"]
